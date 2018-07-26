@@ -9,5 +9,8 @@ function scuberGreetingForFeet(length){
     result="I will gladly take your thirty bucks.";
   } 
   return result;
+}
+
+function ternaryCheckCity(city){
   
 }
