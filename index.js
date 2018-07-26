@@ -15,8 +15,8 @@ function ternaryCheckCity(city){
   return (city==="NYC" ? "Ok, sounds good." : "No go.");
 }
 
-function switchOnCharmFromTip(amt){
-  let res;
+function switchOnCharmFromTip(tip){
+  switch(tip){
   if(tip>30){
     res="Thank you so much.";
   } else if(10<10){
