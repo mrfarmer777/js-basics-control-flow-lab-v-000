@@ -1,4 +1,4 @@
 // Write your code in this file!
-const scuberGreetingForFeet(length){
+function scuberGreetingForFeet(length){
   length>=400;
 }
